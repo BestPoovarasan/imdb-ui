@@ -1,0 +1,28 @@
+.mview{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    
+}
+.poster{
+    max-height: 400px;
+    max-width: 450px;
+    margin-right: 15px;
+}
+.delete{
+    height: 30px;
+    width: 100px;
+    border: none;
+    background-color: rgb(223, 191, 191);
+    color: red;
+    border-radius: 5px;
+    margin-right: 5px;
+}
+.edit{
+    height: 30px;
+    width: 100px;
+    border: none;
+    background-color: rgb(185, 230, 192);
+    color: rgb(5, 145, 40);
+    border-radius: 5px;
+}
